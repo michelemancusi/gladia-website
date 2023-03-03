@@ -58,5 +58,9 @@ abstract: The marine ecosystem is changing at an alarming rate, exhibiting biodi
   work, we show that the same techniques can be successfully used to automatically
   extract fish vocalizations in PAM recordings, opening up the possibility for biodiversity
   monitoring at a large scale.
-publication: '*arXiv preprint arXiv:2201.05013*'
+publication: '*arXiv*'
+doi: 10.48550/ARXIV.2201.05013
+links:
+- name: 'arXiv'
+  url: https://arxiv.org/abs/2201.05013
 ---

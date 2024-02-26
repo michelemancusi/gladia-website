@@ -22,7 +22,7 @@ organizations:
     url: https://www.uniroma1.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "PhD Student @SapienzaRoma CS | Intern @Musixmatch"
+bio: "PhD @SapienzaRoma CS | Former intern @Musixmatch, @Microsoft, @Sony"
 
 # Interests to show in About widget
 interests:
